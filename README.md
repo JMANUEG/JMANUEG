@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **JMANUEG/JMANUEG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,9 +16,6 @@ Here are some ideas to get you started:
 <h1 align="center"><b>Hi , I'm Jose Manuel Espinosa</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <br>
-
-<a href="https://iconscout.com/lottie-animations/user" class="text-underline font-size-sm" target="_blank">User</a> by <a href="https://iconscout.com/contributors/iconsx" class="text-underline font-size-sm">IconsX</a> on <a href="https://iconscout.com" class="text-underline font-size-sm">IconScout</a>
-
 	
 ## <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-user-star"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M8 7a4 4 0 1 0 8 0a4 4 0 0 0 -8 0" /><path d="M6 21v-2a4 4 0 0 1 4 -4h.5" /><path d="M17.8 20.817l-2.172 1.138a.392 .392 0 0 1 -.568 -.41l.415 -2.411l-1.757 -1.707a.389 .389 0 0 1 .217 -.665l2.428 -.352l1.086 -2.193a.392 .392 0 0 1 .702 0l1.086 2.193l2.428 .352a.39 .39 0 0 1 .217 .665l-1.757 1.707l.414 2.41a.39 .39 0 0 1 -.567 .411l-2.172 -1.138z" /></svg>**About me**
 
@@ -30,8 +26,8 @@ Here are some ideas to get you started:
 - A passionate Self-taught Front-end developer
 - Playing CTF's at spare time
 - Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+<!--- Personal website [link](https://www.0xabdulkhalid.ml)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)-->
 
 <br><br>
 
@@ -43,11 +39,8 @@ Here are some ideas to get you started:
 <p align="center">
 
 - **Languages**:
-    
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-
+ 
+	![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=PHP&logoColor=%23FFFFFF&logoSize=AUTO&labelColor=%23777BB4&color=%23777BB4)
 <br>   
     
 - **Front-End Development**:
@@ -89,7 +82,7 @@ Here are some ideas to get you started:
 
 <br>
 
-
+<!--
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
@@ -157,6 +150,6 @@ Here are some ideas to get you started:
 
 ---
 
-<br>
+<br>-->
 
 Credit: [JMANUEG](https://github.com/JMANUEG)
